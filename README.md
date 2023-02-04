@@ -1,8 +1,8 @@
 # CS611-Project0
 ## TicTacToe Game
-Yuxi Ge
-yuxig5@bu.edu
-U70788037
+Yuxi Ge    
+yuxig5@bu.edu    
+U70788037    
 ## Environment
 Java 8
 
@@ -24,39 +24,40 @@ OutPut:
 Welcome to the Tic-Tac-Toe!
 Do you want to play the game? (y/n)
 Input:y
-OutPut:
+OutPut:   
 Please enter a board size: 
 Intput:3
-Output:
-*  *  *  
-*  *  *  
-*  *  *  
-X: Please enter the row number:
-Input:1
-Outut:
-X: Please enter the column number:
-Input:1
-Output:
-X  *  *  
-*  *  *  
-*  *  *  
-O: Please enter the row number:
+Output:    
+\*  \*  \*  
+\*  \*  \*  
+\*  \*  \*  
+X: Please enter the row number:    
+Input:1    
+Outut:    
+X: Please enter the column number:    
+Input:1    
+Output:<br>    
 
-~
-~
-~
+X  \*  \*  
+\*  \*  \*  
+\*  \*  \*  
+O: Please enter the row number:    
 
-X  X  *  
-O  O  *  
-*  *  *  
-X: Please enter the row number:
-Input:1
-Output:X: Please enter the column number:
-Input:3
-Output:
+~     
+~    
+~    
+
+X  X  \*  
+O  O  \*  
+\*  \*  \*      
+X: Please enter the row number:    
+Input:1    
+Output:X: Please enter the column number:    
+Input:3    
+Output:    
 X  X  X  
-O  O  *  
-*  *  *  
+O  O  \*  
+\*  \*  \*  
 
-Congrats!
+Congrats!    
 X Win!
